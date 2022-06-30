@@ -28,7 +28,7 @@
 - 👀 I’m interested in learning, problem solving activities, leading projects, AI and ML development, and Flutter development.
 - 🌱 I’m currently learning ML and Flutter Development
 - 💞️ I’m looking to collaborate on AI, ML, Flutter and software Development
-- 📫 Reach me through above mentioned sources and my email which is usamakhan1701122@gmail.com, [![Linkedin Badge](https://img.shields.io/badge/-UsamaKhan-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- 📫 Reach me through above mentioned sources and my email which is usamakhan1701122@gmail.com, [![Linkedin Badge](https://img.shields.io/badge/-UsamaKhan-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/usamakhan09/)
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web and App applications.
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 ---
