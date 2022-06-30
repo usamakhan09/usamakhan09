@@ -1,13 +1,20 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/RN8FdaB6T1bkkI5n4I/giphy.gif" width="100"/>
-   <div id="badges">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    <img src="https://img.shields.io/badge/YouTube-red?style=flat&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-    <img src="https://img.shields.io/badge/Twitter-blue?style=flat&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </div> 
+<div id="badges">
+  <a href="www.linkedin.com/in/usamakhan09">
+ <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://youtu.be/vTKK8si427E">
+   <img src="https://img.shields.io/badge/YouTube-red?style=flat&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=100012810638611">
+    <img src="https://img.shields.io/badge/facebook-blue?style=flat&logo=facebook&logoColor=white%22%20alt=%22facebook%20Badge"/>
+  </a>
+  
+</div>
   <div id =header align="center">
      <h1>
-      <p>Hi,I’m Usama Khan
+      <p> Hi,I’m Usama Khan
        <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/></p>
     </h1>
   </div>   
